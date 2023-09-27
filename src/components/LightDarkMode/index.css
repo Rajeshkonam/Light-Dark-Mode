@@ -1,0 +1,33 @@
+/* Write your CSS here */
+.c1 {
+  background-color: #ffffff;
+  height: 100vh;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.b1 {
+  color: #000000;
+  background-color: #ffffff;
+  border: 1px solid #000000;
+}
+.b2 {
+  background-color: black;
+  color: #ffffff;
+}
+.c2 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+  height: 50%;
+  width: 50%;
+}
+.btn {
+  height: 40px;
+  outline-color: black;
+}
